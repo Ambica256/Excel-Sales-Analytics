@@ -23,6 +23,11 @@
   _[Months](https://github.com/Ambica256/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20fiscal%20months.pdf)
 
   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Ambica256/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)
+
+  **3** Create [Quarterly Growth Margin% by Subzone](https://github.com/Ambica256/Excel-Sales-Analytics/blob/main/Quarterly%20Growth%20Margin%25%20by%20subzone.pdf)
+
+  **4** Create [miscellaneous Reports](https://github.com/Ambica256/Excel-Sales-Analytics/blob/main/Miscellaneous%20Reports.pdf)
+  
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
